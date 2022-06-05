@@ -1,2 +1,2 @@
 # cs50
-Introduction Python cs50 2022 psets
+Introduction to Python cs50 2022 psets
